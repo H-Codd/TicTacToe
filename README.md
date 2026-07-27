@@ -11,11 +11,9 @@ Um simples jogo da velha (tic-tac-toe) desenvolvido em **Unity** para fins de ap
   - Jogador vs Computador (IA básica).
 - [Detecção automática de vitória](ca://s?q=Como_funciona_a_deteccao_de_vitoria) ou empate.
 - Reinício rápido da partida.
-- Interface simples e intuitiva.
-
 ---
 
-##  Como jogar
+##  Como instalar os scripts
 1. Clone este repositório:
    ```bash
    git clone https://github.com/H-Codd/TicTacToe.git
